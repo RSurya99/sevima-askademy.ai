@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <>
       <main>
-        <div className='h-screen bg-secondary'>
+        <div className='w-full h-screen bg-secondary overflow-hidden'>
           <nav className='max-w-screen-xl mx-auto p-4 flex items-center justify-between'>
             <div className="flex items-center gap-x-12">
               <Link href='/' className='flex items-center gap-x-2 text-2xl font-bold text-white leading-tight'>
@@ -47,7 +47,7 @@ const Home = () => {
             </div>
             <div className='relative'>
               <Image src='/images/hero-3.png' width={425} height={517} className='relative z-10' alt='' />
-              <Image src='/images/hero-2.png' width={460} height={450} className='absolute top-0 -right-24 z-0' alt='' />
+              <Image src='/images/hero-2.png' width={460} height={450} className='absolute top-0 -right-8 2xl:-right-24 z-0' alt='' />
             </div>
           </section>
         </div>
