@@ -1,4 +1,4 @@
-import './globals.css'
+import '@/app/globals.css'
 
 export const metadata = {
   title: 'Askademy.ai',
@@ -12,7 +12,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className='font-montserrat antialiased'>{children}</body>
+      <body className='font-montserrat antialiased'>
+        <nav>Roadmap Nav</nav>
+        <main>{children}</main>
+      </body>
     </html>
   )
 }

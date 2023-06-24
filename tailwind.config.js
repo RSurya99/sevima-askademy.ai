@@ -7,17 +7,20 @@ module.exports = {
   ],
   theme: {
   extend: {
-      colors: {
-        'primary': {
-          'DEFAULT': '#FF6551',
-        },
-        'secondary': {
-          'DEFAULT': '#252B42',
-        },
-        'paragraph': {
-          'DEFAULT': '#737373',
-        },
-      }
+    fontFamily: {
+      'montserrat': ['Montserrat', 'sans-serif'],
+    },
+    colors: {
+      'primary': {
+        'DEFAULT': '#FF6551',
+      },
+      'secondary': {
+        'DEFAULT': '#26335D',
+      },
+      'paragraph': {
+        'DEFAULT': '#737373',
+      },
+    }
     },
   },
   plugins: [],

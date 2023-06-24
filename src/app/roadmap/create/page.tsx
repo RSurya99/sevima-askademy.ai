@@ -6,9 +6,9 @@ export const metadata = {
 
 const RoadmapCreate = () => {
   return (
-    <main>
+    <div>
       <h1 className='text-4xl font-bold text-primary'>Roadmap Create</h1>
-    </main>
+    </div>
   )
 }
 
