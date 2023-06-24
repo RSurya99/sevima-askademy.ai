@@ -9,6 +9,9 @@
 	<a href="https://www.figma.com/file/jI6yqhlxLU0cax8UsTb2NM/Askademy.ai?type=design&node-id=0%3A1&mode=design&t=6JtGDOuMHYqjZepN-1" _blank="true">UI/UX Design</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+## Latar Belakang
+Beberapa dari kalian pasti pernah merasa bosan dengan pelajaran di sekolah bukan? terkadang kita merasa bosan dan tidak tertarik dengan pelajaran yang diajarkan di sekolah. Hal ini dikarenakan cara belajar yang kurang efektif. Dengan Askademy.ai, kamu dapat membuat roadmap pembelajaran yang terstruktur dan efektif sesuai dengan kurikulum yang berlaku. Kamu juga dapat menambahkan materi pembelajaran yang kamu inginkan. Askademy.ai juga menggunakan metode gamifikasi yang dapat membuat suasana belajar seperti sedang menjalankan suatu misi pada game, dengan begini kamu dapat belajar dengan cara yang lebih efektif dan menyenangkan.
+
 ## Teknologi yang digunakan
 - Next.js 13 - untuk Framework Web
 - TailwindCSS - untuk Styling
