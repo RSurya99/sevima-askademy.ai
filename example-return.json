@@ -1,0 +1,61 @@
+{
+  "roadmap": {
+    "subject": "Matematika",
+    "educational_level": "SMA",
+    "grade": 12,
+    "semester": 1,
+    "curriculum": "Kurikulum 2013 Indonesia",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Bab 1: Petualangan Kalkulus Diferensial",
+        "estimated_time": "4 minggu",
+        "tasks": [
+          "Misi 1: Menjelajahi Konsep Dasar Kalkulus Diferensial",
+          "Misi 2: Mengaplikasikan Kalkulus Diferensial dalam Pemecahan Masalah",
+          "Misi 3: Memahami Turunan Parsial dan Aplikasinya"
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Bab 2: Petualangan Matriks dan Transformasi Linear",
+        "estimated_time": "3 minggu",
+        "tasks": [
+          "Misi 1: Melakukan Eksplorasi Matriks dan Operasinya",
+          "Misi 2: Memahami Transformasi Linear dan Aplikasinya",
+          "Misi 3: Menjelajahi Sistem Persamaan Linear"
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Bab 3: Bereksperimen dengan Peluang dan Statistika",
+        "estimated_time": "5 minggu",
+        "tasks": [
+          "Misi 1: Melintasi Dunia Peluang dengan Tantangan",
+          "Misi 2: Menjelajahi Distribusi Peluang dan Aplikasinya",
+          "Misi 3: Menganalisis Data Statistik dan Menarik Kesimpulan"
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Bab 4: Petualangan Ruang Vektor",
+        "estimated_time": "4 minggu",
+        "tasks": [
+          "Misi 1: Memahami Ruang Vektor dan Operasinya",
+          "Misi 2: Mengaplikasikan Operasi Matriks dalam Ruang Vektor",
+          "Misi 3: Menjelajahi Transformasi Linear pada Ruang Vektor"
+        ]
+      },
+      {
+        "level": 5,
+        "name": "Bab 5: Petualangan Integral Tentu dan Tak Tentu",
+        "estimated_time": "3 minggu",
+        "tasks": [
+          "Misi 1: Menjelajahi Konsep Integral Tentu dan Tak Tentu",
+          "Misi 2: Mengaplikasikan Integral dalam Pemecahan Masalah",
+          "Misi 3: Memahami Aplikasi Integral dalam Konteks Nyata"
+        ]
+      }
+    ]
+  }
+}
