@@ -5,8 +5,9 @@
 <p align="center">Askademy.ai adalah sebuah AI yang dapat kamu gunakan untuk membuat roadmap pembelajaran yang terstruktur dan efektif sesuai dengan kurikulum yang berlaku.</p>
 
 <p align="center">
-	<a href="https://askademy-ai.netlify.app" _blank="true">Live Site</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.figma.com/file/jI6yqhlxLU0cax8UsTb2NM/Askademy.ai?type=design&node-id=0%3A1&mode=design&t=6JtGDOuMHYqjZepN-1" _blank="true">UI/UX Design</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://sevima-askademy-ai.vercel.app/" target="_blank">Live Site</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.figma.com/file/jI6yqhlxLU0cax8UsTb2NM/Askademy.ai?type=design&node-id=0%3A1&mode=design&t=6JtGDOuMHYqjZepN-1" target="_blank">UI/UX Design</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://docs.google.com/presentation/d/1nUzTgj_hFP2zxXI-1qEhyr6ERbYmRXhOvLNEwxyUztg/edit?usp=sharing" target="_blank">Presentation</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Latar Belakang
